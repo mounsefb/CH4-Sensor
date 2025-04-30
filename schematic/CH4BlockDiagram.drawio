@@ -1,0 +1,136 @@
+<mxfile host="app.diagrams.net" modified="2024-06-10T04:26:37.968Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="iy7MyOE-P_TlXHyt0-g4" version="24.5.2" type="device">
+  <diagram name="Page-1" id="4iZslqUuZsmHm2OfYdu1">
+    <mxGraphModel dx="1990" dy="978" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9dI0SsrzfVJU3UNAh4sB-1" target="9dI0SsrzfVJU3UNAh4sB-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-1" value="Battery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9dI0SsrzfVJU3UNAh4sB-2" target="9dI0SsrzfVJU3UNAh4sB-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-2" value="Voltage Booster" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9dI0SsrzfVJU3UNAh4sB-3" target="9dI0SsrzfVJU3UNAh4sB-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9dI0SsrzfVJU3UNAh4sB-3" target="9dI0SsrzfVJU3UNAh4sB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-3" value="MCU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-4" value="CH4 sensor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9dI0SsrzfVJU3UNAh4sB-8" target="9dI0SsrzfVJU3UNAh4sB-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-8" value="NB-IoT Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9dI0SsrzfVJU3UNAh4sB-10" target="9dI0SsrzfVJU3UNAh4sB-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-10" value="IoT Sim Card" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-13" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.wi_fi;rotation=-224;" vertex="1" parent="1">
+          <mxGeometry x="440" y="590" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-15" value="Antenna" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-17" value="Cloud" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="410" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-19" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/54/54303.png;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="330" y="640" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-20" value="Computer / Website / Smartphone App" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-21" value="Rest API Requests&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9dI0SsrzfVJU3UNAh4sB-23" target="9dI0SsrzfVJU3UNAh4sB-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-23" value="Battery" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9dI0SsrzfVJU3UNAh4sB-25" target="9dI0SsrzfVJU3UNAh4sB-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-25" value="Voltage Booster" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9dI0SsrzfVJU3UNAh4sB-28" target="9dI0SsrzfVJU3UNAh4sB-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9dI0SsrzfVJU3UNAh4sB-28" target="9dI0SsrzfVJU3UNAh4sB-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-28" value="MCU" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-29" value="CH4 sensor" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9dI0SsrzfVJU3UNAh4sB-32" target="9dI0SsrzfVJU3UNAh4sB-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-32" value="NB-IoT Module" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9dI0SsrzfVJU3UNAh4sB-33" target="9dI0SsrzfVJU3UNAh4sB-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-33" value="IoT Sim Card" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="1050" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-34" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#434445;aspect=fixed;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.vvd.wi_fi;rotation=-224;" vertex="1" parent="1">
+          <mxGeometry x="470" y="1270" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-35" value="Antenna" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-36" value="Cloud" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-37" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn-icons-png.flaticon.com/512/54/54303.png;rotation=-15;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1320" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-38" value="Computer / Website / Smartphone App" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-39" value="Rest API Requests&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1380" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-40" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;BLOCK DIAGRAM WITHOUT CHARGER&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="185" y="160" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-41" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;BLOCK DIAGRAM WITH CHARGER&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="175" y="840" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9dI0SsrzfVJU3UNAh4sB-45" target="9dI0SsrzfVJU3UNAh4sB-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-45" value="Battery Charger" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9dI0SsrzfVJU3UNAh4sB-46" target="9dI0SsrzfVJU3UNAh4sB-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9dI0SsrzfVJU3UNAh4sB-46" value="Solar Cell" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

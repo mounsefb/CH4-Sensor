@@ -1,0 +1,14 @@
+Dans deux terminaux séparés !
+
+
+gdb-multiarch /home/mounsef/STM32CubeIDE/workspace_1.15.1/CH4SensorProject2/Debug/CH4SensorProject2.elf
+
+
+sudo openocd -f interface/stlink.cfg -f target/stm32f1x.cfg
+
+
+tui enable
+
+target remote localhost:3333
+
+r s 
